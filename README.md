@@ -1,9 +1,6 @@
+<a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=21&pause=1000&center=true&vCenter=true&width=435&lines=Hello+There!+%F0%9F%91%8B;This+is+Deepak+Singh+Kushwaha...;Nice+to+Meet+You" alt="Typing SVG" /></a>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Deepak Singh...;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
 <br>
 <p align="center">
  <img src="https://github.com/kajal1801/kajal1801/blob/master/github_banner.png" alt="Giphy" width="700px" height="300px" >
