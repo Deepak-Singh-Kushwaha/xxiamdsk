@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=21&pause=1000&center=true&vCenter=true&width=435&lines=Hello+There!+%F0%9F%91%8B;This+is+Deepak+Singh+Kushwaha...;Nice+to+Meet+You" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=21&pause=1000&center=true&vCenter=true&width=435&lines=Hello+There!+%F0%9F%91%8B;Its+Deepak+Singh+Kushwaha...;Nice+to+Meet+You" alt="Typing SVG" /></a>
  </h1>
  
  
@@ -17,7 +17,7 @@
  
  - 📫 How to reach me: **ds2390521@gmail.com**
  
- - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/12CSsASJ0-M_B50dKr9VFU9tarGf8kn5h/view?usp=sharing)
+ - 📄 Visit my Portfolio: [Portfolio](https://xxiamdsk.github.io/Portfolio.github.io/index.html)
  
  - ⚡ Fun fact: **Youtube has taught me more than my College ever did.**
  
@@ -28,16 +28,17 @@
  
  <h3 align="left">Connect with me:</h3>
  <p align="left">
+     <a href="https://instagram.com/ctrl_alt_dsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ctrl_alt_dsk" height="30" width="40" /></a>
  <a href="https://twitter.com/ctrl_alt_dsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ctrl_alt_dsk" height="30" width="40" /></a>
  <a href="https://linkedin.com/in/https://www.linkedin.com/in/deepak-singh-kushwaha-24196b1a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-singh-kushwaha-24196b1a0/" height="30" width="40" /></a>
- <a href="https://instagram.com/ctrl_alt_dsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ctrl_alt_dsk" height="30" width="40" /></a>
+ 
  </p>
  
  
  
  
  <br>
- <h3 align="left">Trophies:</h3>
+ <h3 align="left">Trophies Earned:</h3>
  
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk" alt="xxiamdsk" /></a> </p>
 
@@ -45,7 +46,7 @@
  
  
  
- <h3 align="left">Languages and Tools:</h3>
+ <h3 align="left">Languages and Tools Used:</h3>
  <p align="left">
      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
