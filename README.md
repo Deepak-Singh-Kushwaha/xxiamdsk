@@ -66,4 +66,6 @@
   <img src="https://streak-stats.demolab.com?user=xxiamdsk&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk" alt="xxiamdsk" /></a> </p>
+
 ###
