@@ -58,8 +58,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/xxiamdsk/xxiamdsk/output/snake.svg" alt="Snake animation" />
 
 ###
