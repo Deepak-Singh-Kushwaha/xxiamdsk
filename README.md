@@ -1,13 +1,13 @@
 <br clear="both">
 
-<h1 align="center">Hello World!!</h1>
+<h1 align="center">Hi 👋, I'm Deepak Singh Kushwaha</h1>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/90473762276794014/D62EEEC2C9AD9E4CBA7A6F01B568CA8C847D8BDA/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
+  <img height="200" width="700" src="https://steamuserimages-a.akamaihd.net/ugc/90473762276794014/D62EEEC2C9AD9E4CBA7A6F01B568CA8C847D8BDA/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
 </div>
 
 ###
