@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<p align="center">- 💬 Ask me about: **C, C++, Java, Python, Data Structures and Algorithms.**<br> <br> - 📚 Currently Learning: **Java amd DSA**<br>  <br> - ⚡ Fun fact: **Youtube has taught me more than my College ever did.**</p>
+<p align="center">- 💬 Ask me about: **C, C++, Java, Python, Data Structures and Algorithms.**<br> <br> - 📚 Currently Learning: **Java and DSA**<br>  <br> - ⚡ Fun fact: **Youtube has taught me more than my College ever did.**</p>
 
 ###
 
